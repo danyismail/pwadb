@@ -1,3 +1,4 @@
+{"ninja" : 
 [{"id":1,"ninja_name":"Chaim","abilty":"Account Executive","avatar":"https://robohash.org/consequunturiustoconsequatur.png?size=50x50&set=set1"},
 {"id":2,"ninja_name":"Agathe","abilty":"Staff Scientist","avatar":"https://robohash.org/itaquenesciuntanimi.jpg?size=50x50&set=set1"},
 {"id":3,"ninja_name":"Augy","abilty":"Senior Quality Engineer","avatar":"https://robohash.org/praesentiumnonquia.png?size=50x50&set=set1"},
@@ -98,3 +99,4 @@
 {"id":98,"ninja_name":"Nellie","abilty":"Senior Developer","avatar":"https://robohash.org/dolorumlaudantiumquo.bmp?size=50x50&set=set1"},
 {"id":99,"ninja_name":"Gail","abilty":"Research Nurse","avatar":"https://robohash.org/ipsaablabore.png?size=50x50&set=set1"},
 {"id":100,"ninja_name":"Kacie","abilty":"Business Systems Development Analyst","avatar":"https://robohash.org/praesentiumquiaaliquam.bmp?size=50x50&set=set1"}]
+}
